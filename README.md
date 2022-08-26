@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HongbiKo
 - 👀 I’m interested in Front-end developing.
-- 🌱 I’m currently learning web developing skills :)
+- 💜 Now I have some skills - html, css, javscript. (Figma, Photoshop)
+- 🌱 I’m currently learning web developing skills :) -JavaScript, React
 - 📫 How to reach me -> rhghdql666@gmail.com
 
 <!---
