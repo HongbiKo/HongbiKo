@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HongbiKo
+- 👋 Hi, I’m Lina Hongbi Ko.
 - 👀 I’m interested in Front-end developing.
 - 💜 Now I have some skills - html, css, javaScript. (Figma, Photoshop)
 - 🌱 I’m currently learning web developing skills :) - JavaScript, React
