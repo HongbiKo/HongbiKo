@@ -2,6 +2,7 @@
 - 👀 I’m interested in Front-end developing.
 - 💜 Now I have some skills - html, css, javaScript. (Figma, Photoshop)
 - 🌱 I’m currently learning web developing skills :) - JavaScript, React
+- 📝 My studing note is here -> https://velog.io/@dhrhghdql
 - 📫 How to reach me -> rhghdql666@gmail.com
 
 <!---
